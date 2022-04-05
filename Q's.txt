@@ -1,3 +1,10 @@
+
+
+# basic-image:  registry.access.redhat.com/ubi8/ubi:8.4
+
+
+
+
 1. identity managment
   - add the following users with there passwords: 
     avi - new , bali - old , madi - now , sunny - sun 
